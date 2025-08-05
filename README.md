@@ -55,14 +55,14 @@ To complete this project, you'll need:
 
 ### 💻 Software
 - Arduino IDE (1.x or 2.x)
-- [Kelly Controller PC software](https://kellycontroller.com/pages/download)
+- [Kelly Controller PC software](https://kellycontroller.com/support/)
 
 ---
 
 ## 📘 Documentation
 
-See [docs/manual.pdf](docs/manual.pdf) for complete installation steps.  
-For original Czech version, see [docs/manual.pdf](docs/manual.pdf).
+See [docs/instructions_en.pdf](docs/instructions_en.pdf) for complete installation steps.  
+For original Czech version, see [docs/instructions_cz.pdf](docs/instructions_cz.pdf).
 
 ---
 
