@@ -61,14 +61,8 @@ To complete this project, you'll need:
 
 ## 📘 Documentation
 
-See [docs/manual.en.md](docs/manual.en.md) for complete installation steps.  
-For original Czech version, see [docs/manual.cs.md](docs/manual.cs.md).
-
----
-
-## 📸 Preview
-
-_Add wiring diagrams or photos here once available._
+See [docs/manual.pdf](docs/manual.pdf) for complete installation steps.  
+For original Czech version, see [docs/manual.pdf](docs/manual.pdf).
 
 ---
 
